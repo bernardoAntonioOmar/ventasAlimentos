@@ -1,11 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 body{
-  background-image: url("./assets/img/background.jpg");
-  background-attachment: fixed;
+  background-color: black;
   color: white !important;
-  background-size:     auto;
-  background-repeat:   no-repeat;
-  background-position: center center;
 }
 
 hr{
@@ -34,30 +30,6 @@ hr{
     height: 280px;
   }
 }
-
-/* custom styles */
-/*.container{
-  padding: 10px;
-}*/
-.card{
-  margin-top: 10px;
-  background-color: #343a40!important;
-}
-.card-footer{
-  margin-top: 10px;
-  background-color: #242a30!important;
-}
-.card-custom-price{
- color: #FF8C69;
-}
-.card-custom-add{
- color: #FF8C69;
-}
-
-
-/*.card-title {
-  color:black;
-}*/
 
 
 .main-container{
